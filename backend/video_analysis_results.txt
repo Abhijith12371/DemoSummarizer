@@ -1,0 +1,350 @@
+Frame 0 (Time: 0.00s):
+  1. 111: 'nematode, nematode worm, roundworm',: 0.9254
+  2. 107: 'jellyfish',: 0.0462
+  3. 65: 'sea snake',: 0.0052
+  4. 712: 'Petri dish',: 0.0050
+  5. 438: 'beaker',: 0.0035
+
+Frame 30 (Time: 1.00s):
+  1. 111: 'nematode, nematode worm, roundworm',: 0.6676
+  2. 600: 'hook, claw',: 0.3137
+  3. 432: 'bassoon',: 0.0028
+  4. 65: 'sea snake',: 0.0022
+  5. 772: 'safety pin',: 0.0022
+
+Frame 60 (Time: 2.00s):
+  1. 600: 'hook, claw',: 0.3498
+  2. 999: 'toilet tissue, toilet paper, bathroom tissue'}: 0.1275
+  3. 772: 'safety pin',: 0.0907
+  4. 700: 'paper towel',: 0.0750
+  5. 710: 'pencil sharpener',: 0.0631
+
+Frame 90 (Time: 3.00s):
+  1. 818: 'spotlight, spot',: 0.8805
+  2. 633: "loupe, jeweler's loupe",: 0.0992
+  3. 745: 'projector',: 0.0090
+  4. 673: 'mouse, computer mouse',: 0.0031
+  5. 619: 'lampshade, lamp shade',: 0.0007
+
+Frame 120 (Time: 4.00s):
+  1. 746: 'puck, hockey puck',: 0.0820
+  2. 921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.0698
+  3. 433: 'bathing cap, swimming cap',: 0.0664
+  4. 795: 'ski',: 0.0625
+  5. 917: 'comic book',: 0.0369
+
+Frame 150 (Time: 5.00s):
+  1. 974: 'geyser',: 0.5704
+  2. 980: 'volcano',: 0.2051
+  3. 970: 'alp',: 0.0609
+  4. 795: 'ski',: 0.0198
+  5. 537: 'dogsled, dog sled, dog sleigh',: 0.0174
+
+Frame 180 (Time: 6.01s):
+  1. 703: 'park bench',: 0.5540
+  2. 921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.1388
+  3. 593: 'harmonica, mouth organ, harp, mouth harp',: 0.0532
+  4. 481: 'cassette',: 0.0350
+  5. 798: 'slide rule, slipstick',: 0.0164
+
+Frame 210 (Time: 7.01s):
+  1. 916: 'web site, website, internet site, site',: 0.2015
+  2. 530: 'digital clock',: 0.0872
+  3. 754: 'radio, wireless',: 0.0727
+  4. 732: 'Polaroid camera, Polaroid Land camera',: 0.0649
+  5. 800: 'slot, one-armed bandit',: 0.0514
+
+Frame 240 (Time: 8.01s):
+  1. 916: 'web site, website, internet site, site',: 0.3149
+  2. 488: 'chain',: 0.1550
+  3. 530: 'digital clock',: 0.0605
+  4. 421: 'bannister, banister, balustrade, balusters, handrail',: 0.0292
+  5. 826: 'stopwatch, stop watch',: 0.0249
+
+Frame 270 (Time: 9.01s):
+  1. 916: 'web site, website, internet site, site',: 0.7943
+  2. 826: 'stopwatch, stop watch',: 0.0144
+  3. 530: 'digital clock',: 0.0094
+  4. 921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.0081
+  5. 593: 'harmonica, mouth organ, harp, mouth harp',: 0.0058
+
+Frame 300 (Time: 10.01s):
+  1. 916: 'web site, website, internet site, site',: 0.8423
+  2. 826: 'stopwatch, stop watch',: 0.0111
+  3. 593: 'harmonica, mouth organ, harp, mouth harp',: 0.0061
+  4. 922: 'menu',: 0.0051
+  5. 921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.0051
+
+Frame 330 (Time: 11.01s):
+  1. 916: 'web site, website, internet site, site',: 0.9435
+  2. 922: 'menu',: 0.0053
+  3. 826: 'stopwatch, stop watch',: 0.0044
+  4. 781: 'scoreboard',: 0.0032
+  5. 782: 'screen, CRT screen',: 0.0023
+
+Frame 360 (Time: 12.01s):
+  1. 918: 'crossword puzzle, crossword',: 0.2798
+  2. 904: 'window screen',: 0.1190
+  3. 781: 'scoreboard',: 0.0742
+  4. 640: 'manhole cover',: 0.0467
+  5. 530: 'digital clock',: 0.0331
+
+Frame 390 (Time: 13.01s):
+  1. 918: 'crossword puzzle, crossword',: 0.3785
+  2. 781: 'scoreboard',: 0.0778
+  3. 904: 'window screen',: 0.0651
+  4. 640: 'manhole cover',: 0.0319
+  5. 530: 'digital clock',: 0.0296
+
+Frame 420 (Time: 14.01s):
+  1. 918: 'crossword puzzle, crossword',: 0.2851
+  2. 904: 'window screen',: 0.0868
+  3. 781: 'scoreboard',: 0.0613
+  4. 640: 'manhole cover',: 0.0450
+  5. 761: 'remote control, remote',: 0.0317
+
+Frame 450 (Time: 15.02s):
+  1. 918: 'crossword puzzle, crossword',: 0.2557
+  2. 781: 'scoreboard',: 0.1065
+  3. 904: 'window screen',: 0.1010
+  4. 782: 'screen, CRT screen',: 0.0344
+  5. 530: 'digital clock',: 0.0339
+
+Frame 480 (Time: 16.02s):
+  1. 917: 'comic book',: 0.2147
+  2. 921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.1429
+  3. 375: 'colobus, colobus monkey',: 0.0911
+  4. 340: 'zebra',: 0.0368
+  5. 361: 'skunk, polecat, wood pussy',: 0.0351
+
+Frame 510 (Time: 17.02s):
+  1. 906: 'Windsor tie',: 0.1586
+  2. 917: 'comic book',: 0.1215
+  3. 921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.1101
+  4. 650: 'microphone, mike',: 0.0520
+  5. 678: 'neck brace',: 0.0474
+
+Frame 540 (Time: 18.02s):
+  1. 917: 'comic book',: 0.1586
+  2. 906: 'Windsor tie',: 0.1439
+  3. 921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.1269
+  4. 650: 'microphone, mike',: 0.0590
+  5. 678: 'neck brace',: 0.0547
+
+Frame 570 (Time: 19.02s):
+  1. 906: 'Windsor tie',: 0.1972
+  2. 917: 'comic book',: 0.1309
+  3. 921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.1145
+  4. 650: 'microphone, mike',: 0.0603
+  5. 678: 'neck brace',: 0.0487
+
+Frame 600 (Time: 20.02s):
+  1. 917: 'comic book',: 0.7949
+  2. 916: 'web site, website, internet site, site',: 0.0495
+  3. 921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.0331
+  4. 781: 'scoreboard',: 0.0179
+  5. 919: 'street sign',: 0.0133
+
+Frame 630 (Time: 21.02s):
+  1. 917: 'comic book',: 0.8414
+  2. 916: 'web site, website, internet site, site',: 0.0639
+  3. 781: 'scoreboard',: 0.0356
+  4. 921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.0189
+  5. 919: 'street sign',: 0.0028
+
+Frame 660 (Time: 22.02s):
+  1. 917: 'comic book',: 0.8454
+  2. 916: 'web site, website, internet site, site',: 0.0618
+  3. 781: 'scoreboard',: 0.0344
+  4. 921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.0192
+  5. 919: 'street sign',: 0.0028
+
+Frame 690 (Time: 23.02s):
+  1. 916: 'web site, website, internet site, site',: 0.0451
+  2. 862: 'torch',: 0.0215
+  3. 465: 'bulletproof vest',: 0.0192
+  4. 781: 'scoreboard',: 0.0186
+  5. 981: 'ballplayer, baseball player',: 0.0149
+
+Frame 720 (Time: 24.02s):
+  1. 916: 'web site, website, internet site, site',: 0.0770
+  2. 530: 'digital clock',: 0.0745
+  3. 826: 'stopwatch, stop watch',: 0.0686
+  4. 549: 'envelope',: 0.0550
+  5. 685: 'odometer, hodometer, mileometer, milometer',: 0.0512
+
+Frame 750 (Time: 25.03s):
+  1. 781: 'scoreboard',: 0.1301
+  2. 916: 'web site, website, internet site, site',: 0.1107
+  3. 530: 'digital clock',: 0.1012
+  4. 826: 'stopwatch, stop watch',: 0.0892
+  5. 685: 'odometer, hodometer, mileometer, milometer',: 0.0846
+
+Frame 780 (Time: 26.03s):
+  1. 781: 'scoreboard',: 0.1287
+  2. 916: 'web site, website, internet site, site',: 0.1146
+  3. 530: 'digital clock',: 0.1002
+  4. 826: 'stopwatch, stop watch',: 0.0879
+  5. 685: 'odometer, hodometer, mileometer, milometer',: 0.0830
+
+Frame 810 (Time: 27.03s):
+  1. 781: 'scoreboard',: 0.1286
+  2. 916: 'web site, website, internet site, site',: 0.1146
+  3. 530: 'digital clock',: 0.1003
+  4. 826: 'stopwatch, stop watch',: 0.0878
+  5. 685: 'odometer, hodometer, mileometer, milometer',: 0.0831
+
+Frame 840 (Time: 28.03s):
+  1. 781: 'scoreboard',: 0.1352
+  2. 686: 'oil filter',: 0.0613
+  3. 916: 'web site, website, internet site, site',: 0.0382
+  4. 465: 'bulletproof vest',: 0.0236
+  5. 917: 'comic book',: 0.0221
+
+Frame 870 (Time: 29.03s):
+  1. 781: 'scoreboard',: 0.1504
+  2. 686: 'oil filter',: 0.0568
+  3. 916: 'web site, website, internet site, site',: 0.0321
+  4. 465: 'bulletproof vest',: 0.0254
+  5. 917: 'comic book',: 0.0210
+
+Frame 900 (Time: 30.03s):
+  1. 488: 'chain',: 0.2195
+  2. 409: 'analog clock',: 0.0917
+  3. 685: 'odometer, hodometer, mileometer, milometer',: 0.0477
+  4. 679: 'necklace',: 0.0293
+  5. 530: 'digital clock',: 0.0282
+
+Frame 930 (Time: 31.03s):
+  1. 488: 'chain',: 0.2363
+  2. 409: 'analog clock',: 0.1327
+  3. 685: 'odometer, hodometer, mileometer, milometer',: 0.0453
+  4. 303: 'long-horned beetle, longicorn, longicorn beetle',: 0.0329
+  5. 679: 'necklace',: 0.0277
+
+Frame 960 (Time: 32.03s):
+  1. 488: 'chain',: 0.2028
+  2. 409: 'analog clock',: 0.1252
+  3. 685: 'odometer, hodometer, mileometer, milometer',: 0.0732
+  4. 826: 'stopwatch, stop watch',: 0.0331
+  5. 530: 'digital clock',: 0.0324
+
+Frame 990 (Time: 33.03s):
+  1. 409: 'analog clock',: 0.1368
+  2. 828: 'strainer',: 0.1359
+  3. 679: 'necklace',: 0.1078
+  4. 918: 'crossword puzzle, crossword',: 0.0958
+  5. 488: 'chain',: 0.0403
+
+Frame 1020 (Time: 34.03s):
+  1. 409: 'analog clock',: 0.6938
+  2. 826: 'stopwatch, stop watch',: 0.1205
+  3. 752: 'racket, racquet',: 0.0505
+  4. 778: 'scale, weighing machine',: 0.0405
+  5. 892: 'wall clock',: 0.0159
+
+Frame 1050 (Time: 35.04s):
+  1. 409: 'analog clock',: 0.6765
+  2. 826: 'stopwatch, stop watch',: 0.1358
+  3. 752: 'racket, racquet',: 0.0193
+  4. 892: 'wall clock',: 0.0152
+  5. 635: 'magnetic compass',: 0.0150
+
+Frame 1080 (Time: 36.04s):
+  1. 409: 'analog clock',: 0.2091
+  2. 826: 'stopwatch, stop watch',: 0.1154
+  3. 752: 'racket, racquet',: 0.1039
+  4. 300: 'tiger beetle',: 0.0519
+  5. 635: 'magnetic compass',: 0.0515
+
+Frame 1110 (Time: 37.04s):
+  1. 826: 'stopwatch, stop watch',: 0.4800
+  2. 409: 'analog clock',: 0.2344
+  3. 778: 'scale, weighing machine',: 0.0642
+  4. 635: 'magnetic compass',: 0.0554
+  5. 902: 'whistle',: 0.0120
+
+Frame 1140 (Time: 38.04s):
+  1. 111: 'nematode, nematode worm, roundworm',: 0.0638
+  2. 916: 'web site, website, internet site, site',: 0.0223
+  3. 465: 'bulletproof vest',: 0.0130
+  4. 549: 'envelope',: 0.0122
+  5. 826: 'stopwatch, stop watch',: 0.0114
+
+Frame 1170 (Time: 39.04s):
+  1. 916: 'web site, website, internet site, site',: 0.1831
+  2. 530: 'digital clock',: 0.0709
+  3. 826: 'stopwatch, stop watch',: 0.0567
+  4. 781: 'scoreboard',: 0.0375
+  5. 409: 'analog clock',: 0.0172
+
+Frame 1200 (Time: 40.04s):
+  1. 688: 'oscilloscope, scope, cathode-ray oscilloscope, CRO',: 0.1413
+  2. 782: 'screen, CRT screen',: 0.1037
+  3. 781: 'scoreboard',: 0.0909
+  4. 111: 'nematode, nematode worm, roundworm',: 0.0644
+  5. 916: 'web site, website, internet site, site',: 0.0608
+
+Frame 1230 (Time: 41.04s):
+  1. 916: 'web site, website, internet site, site',: 0.1181
+  2. 922: 'menu',: 0.0949
+  3. 111: 'nematode, nematode worm, roundworm',: 0.0577
+  4. 458: 'brass, memorial tablet, plaque',: 0.0496
+  5. 921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.0297
+
+Frame 1260 (Time: 42.04s):
+  1. 916: 'web site, website, internet site, site',: 0.1898
+  2. 922: 'menu',: 0.0718
+  3. 781: 'scoreboard',: 0.0472
+  4. 458: 'brass, memorial tablet, plaque',: 0.0386
+  5. 782: 'screen, CRT screen',: 0.0340
+
+Frame 1290 (Time: 43.04s):
+  1. 922: 'menu',: 0.1282
+  2. 916: 'web site, website, internet site, site',: 0.1178
+  3. 458: 'brass, memorial tablet, plaque',: 0.0798
+  4. 782: 'screen, CRT screen',: 0.0385
+  5. 111: 'nematode, nematode worm, roundworm',: 0.0374
+
+Frame 1320 (Time: 44.04s):
+  1. 916: 'web site, website, internet site, site',: 0.2794
+  2. 782: 'screen, CRT screen',: 0.0673
+  3. 688: 'oscilloscope, scope, cathode-ray oscilloscope, CRO',: 0.0582
+  4. 781: 'scoreboard',: 0.0534
+  5. 111: 'nematode, nematode worm, roundworm',: 0.0521
+
+Frame 1350 (Time: 45.05s):
+  1. 916: 'web site, website, internet site, site',: 0.2232
+  2. 782: 'screen, CRT screen',: 0.0755
+  3. 781: 'scoreboard',: 0.0728
+  4. 111: 'nematode, nematode worm, roundworm',: 0.0517
+  5. 922: 'menu',: 0.0361
+
+Frame 1380 (Time: 46.05s):
+  1. 722: 'ping-pong ball',: 0.1793
+  2. 620: 'laptop, laptop computer',: 0.0741
+  3. 681: 'notebook, notebook computer',: 0.0538
+  4. 610: 'jersey, T-shirt, tee shirt',: 0.0426
+  5. 549: 'envelope',: 0.0414
+
+Frame 1410 (Time: 47.05s):
+  1. 902: 'whistle',: 0.0542
+  2. 826: 'stopwatch, stop watch',: 0.0295
+  3. 720: 'pill bottle',: 0.0257
+  4. 916: 'web site, website, internet site, site',: 0.0242
+  5. 543: 'dumbbell',: 0.0239
+
+Frame 1440 (Time: 48.05s):
+  1. 416: 'balance beam, beam',: 0.1144
+  2. 916: 'web site, website, internet site, site',: 0.1027
+  3. 650: 'microphone, mike',: 0.0418
+  4. 851: 'television, television system',: 0.0320
+  5. 776: 'sax, saxophone',: 0.0169
+
+Frame 1470 (Time: 49.05s):
+  1. 916: 'web site, website, internet site, site',: 0.1174
+  2. 650: 'microphone, mike',: 0.0628
+  3. 416: 'balance beam, beam',: 0.0340
+  4. 851: 'television, television system',: 0.0285
+  5. 921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.0246
+

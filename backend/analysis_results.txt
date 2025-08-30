@@ -1,0 +1,70 @@
+Frame 0 (Time: 0.00s):
+  111: 'nematode, nematode worm, roundworm',: 0.7284
+  107: 'jellyfish',: 0.1840
+  712: 'Petri dish',: 0.0284
+  438: 'beaker',: 0.0077
+  600: 'hook, claw',: 0.0058
+
+Frame 30 (Time: 1.00s):
+  600: 'hook, claw',: 0.2483
+  111: 'nematode, nematode worm, roundworm',: 0.1258
+  885: 'velvet',: 0.0877
+  632: 'loudspeaker, speaker, speaker unit, loudspeaker system, speaker system',: 0.0595
+  423: 'barber chair',: 0.0368
+
+Frame 60 (Time: 2.00s):
+  710: 'pencil sharpener',: 0.7226
+  600: 'hook, claw',: 0.1111
+  999: 'toilet tissue, toilet paper, bathroom tissue'}: 0.0340
+  700: 'paper towel',: 0.0253
+  772: 'safety pin',: 0.0158
+
+Frame 90 (Time: 3.00s):
+  633: "loupe, jeweler's loupe",: 0.4967
+  818: 'spotlight, spot',: 0.4893
+  745: 'projector',: 0.0053
+  673: 'mouse, computer mouse',: 0.0026
+  475: 'car mirror',: 0.0006
+
+Frame 120 (Time: 4.00s):
+  746: 'puck, hockey puck',: 0.3567
+  787: 'shield, buckler',: 0.0619
+  433: 'bathing cap, swimming cap',: 0.0544
+  861: 'toilet seat',: 0.0527
+  592: 'hard disc, hard disk, fixed disk',: 0.0249
+
+Frame 150 (Time: 5.00s):
+  974: 'geyser',: 0.5859
+  795: 'ski',: 0.0453
+  980: 'volcano',: 0.0388
+  147: 'grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus',: 0.0357
+  970: 'alp',: 0.0257
+
+Frame 180 (Time: 6.01s):
+  921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.5235
+  769: 'rule, ruler',: 0.0382
+  767: 'rubber eraser, rubber, pencil eraser',: 0.0341
+  685: 'odometer, hodometer, mileometer, milometer',: 0.0283
+  781: 'scoreboard',: 0.0238
+
+Frame 210 (Time: 7.01s):
+  530: 'digital clock',: 0.1013
+  916: 'web site, website, internet site, site',: 0.0686
+  549: 'envelope',: 0.0533
+  754: 'radio, wireless',: 0.0522
+  650: 'microphone, mike',: 0.0461
+
+Frame 240 (Time: 8.01s):
+  916: 'web site, website, internet site, site',: 0.2524
+  488: 'chain',: 0.1688
+  769: 'rule, ruler',: 0.0561
+  530: 'digital clock',: 0.0319
+  549: 'envelope',: 0.0243
+
+Frame 270 (Time: 9.01s):
+  916: 'web site, website, internet site, site',: 0.5960
+  593: 'harmonica, mouth organ, harp, mouth harp',: 0.0226
+  921: 'book jacket, dust cover, dust jacket, dust wrapper',: 0.0203
+  826: 'stopwatch, stop watch',: 0.0193
+  530: 'digital clock',: 0.0166
+
